@@ -1,4 +1,5 @@
 // Code your solution in this file!
-let companyName =
+const companyName =
 'Scuber';
-let TypeError ;
+var TypeError =
+'Scuber'; 
